@@ -4,7 +4,7 @@ Creating a complete Swiggy Clone using swiggy open source api.
 
 ## Link
 
-[https://swiggy-clone-eight.vercel.app/]
+[swiggyclone-roan.vercel.app/]
 
 ## Features Added :
 
